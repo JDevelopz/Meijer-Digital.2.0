@@ -1,0 +1,28 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.containerfluid{
+  padding-top: 30rem;
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-bottom: 25%;
+  background-color: #30305b;
+  text-align: center;
+}
+h1 {
+  font-weight: bold;
+  font-size: 9rem;
+  color: red;
+
+}
+
+p {
+  font-size: 48px;
+  color: white;
+}
+
+.bb {
+  visibility: hidden;
+}
